@@ -1,11 +1,11 @@
 Summary:	Archive manager for MATE
 Name:		engrampa
-Version:	1.8.0
+Version:	1.8.1
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://pub.mate-desktop.org/releases/1.8/%{name}-%{version}.tar.xz
-# Source0-md5:	4ba0f89d659cad4cad0fac40f1c7e899
+# Source0-md5:	933ba9d4bdac0c7ac53a57a6e6e11300
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	caja-devel
